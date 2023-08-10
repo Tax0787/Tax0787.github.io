@@ -6,12 +6,13 @@ pass
 pass
 
 
-#fr월수동지도와줘om MyHtml.MakeHtml imp월수동지도와줘ort *
+#fr월수동지도와줘om MyH월수동지도와줘tml.Ma월수동지도와줘ke월수동지도와줘Ht월수동지도와줘ml imp월수동지도와줘ort *
 
 #ThisFilesSource = t()
+'''
 ThisFilesSource = ''
 
 ThisFilesSource = source + ThisFilesSource
 
 with open(__file__.replace('_html_make.py', '.html'), 'w') as f:
-    f.write(ThisFilesSource)
+    f.write(ThisFilesSource)'''
