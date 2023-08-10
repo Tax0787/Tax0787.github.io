@@ -1,6 +1,7 @@
 from MyHtml.MakeHtml import *
 
-ThisFilesSource = t()
+#ThisFilesSource = t()
+ThisFilesSource = ''
 
 ThisFilesSource = source + ThisFilesSource
 
